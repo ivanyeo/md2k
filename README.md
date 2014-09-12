@@ -6,4 +6,4 @@
 Software is provided from associated institutions and without warranty
 * http://github.com/MD2Korg/memphis-dataprocessingframework
 * http://github.com/MD2Korg/memphis-mobilephoneframework
-* http://nesl.github.io/ipShield/
+* https://github.com/nesl/ipShield
