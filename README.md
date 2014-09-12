@@ -1,5 +1,4 @@
-#MD2K.org
-###MD2K Center of Excellence for Mobile Sensor Data-to-Knowledge
+#MD2K: A Center of Excellence for Mobile Sensor Data-to-Knowledge
 ####An NIH Center of Excellence for Big Data Computing in the Biomedical Sciences
 
 
