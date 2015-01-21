@@ -1,9 +1,8 @@
 #MD2K: A Center of Excellence for Mobile Sensor Data-to-Knowledge
 ####An NIH Center of Excellence for Big Data Computing in the Biomedical Sciences
 
+For additional information please see our [Wiki](https://github.com/MD2Korg/md2k/wiki/).
 
-#Existing software
-Software is provided from associated institutions and without warranty
-* http://github.com/MD2Korg/memphis-dataprocessingframework
-* http://github.com/MD2Korg/memphis-mobilephoneframework
-* https://github.com/nesl/ipShield
+###License
+
+The MD2K Suite is open-source software licensed under the BSD 3-clause license. The full text of the license may be found in the [LICENSE](https://github.com/MD2Korg/md2k/blob/master/LICENSE) file in the GitHub repository.
