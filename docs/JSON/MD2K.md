@@ -1,8 +1,4 @@
-# JSON Specifications for MD2K software
-
-## Open mHealth
-
-TODO 
+# MD2K software
 
 ## MD2K Data Collection
 
